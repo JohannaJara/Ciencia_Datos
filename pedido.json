@@ -1,0 +1,16 @@
+{
+  "pedido_id": "ORD-2024-001",
+  "cliente": "Ana Torres",
+  "fecha": "2024-06-10",
+  "estado": "enviado",
+  "productos": [
+    {"id": "P01", "nombre": "Laptop Dell XPS", "cantidad": 1, "precio_unitario": 1200.00, "categoria": "electronica"},
+    {"id": "P02", "nombre": "Mouse Inalámbrico", "cantidad": 2, "precio_unitario": 25.50, "categoria": "accesorios"},
+    {"id": "P03", "nombre": "Teclado Mecánico", "cantidad": 1, "precio_unitario": 85.00, "categoria": "accesorios"}
+  ],
+  "direccion_envio": {
+    "calle": "Av. Amazonas 123",
+    "ciudad": "Quito",
+    "pais": "Ecuador"
+  }
+}
